@@ -1,0 +1,30 @@
+{
+  "name": "guulp",
+  "version": "1.0.0",
+  "description": "<!-- MD DATOTEKA IMA SOVJU SINTAKSU, heshje glavni naslov, hesh hesh je podnaslov i ttd. -->\r ## Gulp Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "./node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenadmark/GulpTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nenadmark/GulpTesting/issues"
+  },
+  "homepage": "https://github.com/nenadmark/GulpTesting#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-noop": "^1.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "gulp-sass": "^4.1.0"
+  }
+}

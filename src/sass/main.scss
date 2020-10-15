@@ -1,0 +1,13 @@
+$color: rgb(0, 0, 71);
+
+body{
+    font-size: 100%;
+    background-color: rgb(74, 74, 197);
+    
+    h1{
+        font-size: 120%;
+        color: $color;
+        border: solid 1px $color;
+        padding: 20px;
+    }
+}
